@@ -1,12 +1,25 @@
 ## Hi I'm Wipawee, Welcome to my Github profile 👋
 
-![คาเฟ่น่าน](https://user-images.githubusercontent.com/94730803/142720167-28ab4465-f1e9-4dce-8e4d-221475b4cb46.jpg)
+![คาเฟ่น่าน](https://user-images.githubusercontent.com/94730803/142728510-be37ca3f-2d26-418b-99a0-37757a40d22d.jpg)
 
-### Profile
+
+### Personal information
 
 :raising_hand: Hi, I'm Wipawee Klangthipparat.
 
 :mortar_board: I’m currently learning Data Science and Innovation at Thammasat University.
+
+### Skill
+
+:earth_asia: Adaptability
+
+:telephone:  Communication
+
+:alarm_clock: Management
+
+:computer: Computer Software and Application Knowledge
+
+:chart_with_upwards_trend: Data Analysis
 
 ### Experience
 
