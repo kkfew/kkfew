@@ -33,9 +33,9 @@
 
 ### Contact
 
-:e-mail: [Email: Wipaweefew@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+:e-mail: Email : Wipaweefew28022545@gmail.com
 
-:love_letter: [Line: kkfew](https://line.me/ti/p/HZhh_Z_qoD)
+:love_letter: Line : [kkfew](https://line.me/ti/p/HZhh_Z_qoD)
 
 <!--
 **kkfew/kkfew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
